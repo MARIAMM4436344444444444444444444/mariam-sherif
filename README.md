@@ -38,10 +38,3 @@
 
 ---
 
-## 🚀 Featured Projects
-### [Coursenix – Online Lessons Booking](https://github.com/HananEldaly/Coursenix-FrontEnd)
-Developed a responsive web application for booking online lessons, targeting preparatory and high school students.  
-*Technologies:* HTML, CSS, JavaScript                                                                                                                                                        ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HananEldaly&show_icons=true&theme=tokyonight" alt="stats" height="150"/>
-</p>
